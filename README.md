@@ -1,4 +1,4 @@
-# Memory-augmented Recurrent Networks (mRNN+mLSTM)
+# Long-Memory Recurrent Networks (mRNN+mLSTM)
 
 **News** 
 
@@ -74,3 +74,7 @@ Please refer to the paper for an introduction to datasets and the required refer
 
 ### License
 © Contributors, 2020. Licensed under a [BSD 3-Clause](LICENSE) license.
+
+### Other repositories
+
+Note that the codes in this repository is same as the codes from "https://github.com/Gladys-Zhao/mRNN-mLSTM.git"
