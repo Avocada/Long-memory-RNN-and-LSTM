@@ -1,13 +1,5 @@
 # Long-Memory Recurrent Networks (mRNN+mLSTM)
 
-**News** 
-
-本版本为preview版，后续正式版本会在 https://github.com/huawei-noah/noah-research/tree/master/mRNN-mLSTM 上发布。
-
-This is a preview version. The official version will be available at https://github.com/huawei-noah/noah-research/tree/master/mRNN-mLSTM at a later stage.
-
----
-
 ### Paper
 Do RNN and LSTM have Long Memory? ICML 2020. [[arXiv]](https://arxiv.org/abs/2006.03860)
 
